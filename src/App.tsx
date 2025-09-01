@@ -4,7 +4,7 @@ function App() {
     return (
         <>
             <h1 className="text-3xl font-bold underline">
-                count down timer
+                count down timer 3
             </h1>
         </>)
 }
